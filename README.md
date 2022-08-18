@@ -24,7 +24,10 @@ Input statements are created that prompt the user to enter their minimum and max
 3) A travel itenerary map is created.
 
 ### Approach
-Finally, the Google Directions API is used to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, a marker layer map is created with a pop-up marker for each city on the itinerary. 
+Finally, the Google Directions API is used to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, a marker layer map is created with a pop-up marker for each city on the itinerary. The locations and their pop-up markers are shown below.
+
+![Itenerary Markers](https://github.com/JeremyKRay/Weather_Data/blob/7262a4e0d278403966cc5e8cd30b9ebeb44afd05/WeatherPy_travel_map.png)
 
 ## Results
-A snapshot of the final itenerary map is shown below.
+A snapshot of the final itenerary map with the locations and the route highlighted is shown below.
+![Route Itenerary]
