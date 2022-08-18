@@ -31,4 +31,5 @@ Finally, the Google Directions API is used to create a travel itinerary that sho
 ## Results
 
 A snapshot of the final itenerary map with the locations and the route highlighted is shown below.
+
 ![Route Itenerary](https://github.com/JeremyKRay/Weather_Data/blob/22759c704a3bc613ce5a8aaa14d8f3939d7454df/WeatherPy_travel_map_markers.png)
