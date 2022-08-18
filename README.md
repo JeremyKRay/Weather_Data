@@ -10,7 +10,9 @@ Three main tasks were needed to complete this project.
 1) Weather data is retrieved. 
 
 ### Approach
-A set of 2000 random latitudes and longitudes is generated and the nearest city is retrieved. Then, An API call is performed with the OpenWeatherMap. Information retrieved from the API call includes: Lat/Long, Max Temp, Percent Humidity, Percent Cloudiness, Wind Speed, Weather Descriptions. This weather data is added to a DataFrame. You can access the dataframe by clicking the link below. 
+A set of 2000 random latitudes and longitudes is generated and the nearest city is retrieved. Then, An API call is performed with the OpenWeatherMap. Information retrieved from the API call includes: Lat/Long, Max Temp, Percent Humidity, Percent Cloudiness, Wind Speed, Weather Descriptions. This weather data is added to a DataFrame. A sample of the first 5 rows and what this dataframe looks like is below.
+
+![DataFrame](https://github.com/JeremyKRay/Weather_Data/blob/f5c0f224ab79c7f6eb432494b1c624cc478db32e/Weather%20DataFrame.png)
 
 2) A customer Travel Destinations Map is created. 
 
