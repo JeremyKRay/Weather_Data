@@ -19,6 +19,8 @@ A set of 2000 random latitudes and longitudes is generated and the nearest city 
 ### Approach
 Input statements are created that prompt the user to enter their minimum and maximum temperature criteria for their vacation. The loc method is used to filter the DataFrame for temperature criteria collected. The hotell_df dataframe is used to find nearest hotels based on cities found from the search parameters. The marker layer map code is updated to create pop-up markers for each city on the map. The map can be seen below.
 
+![Vacation Map](https://github.com/JeremyKRay/Weather_Data/blob/075f5964ce81f0e6d2cc4305740750d9f75b8a74/WeatherPy_vacation_map.png)
+
 3) A travel itenerary map is created.
 
 ### Approach
