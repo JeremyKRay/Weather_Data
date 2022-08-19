@@ -3,6 +3,13 @@
 ## Purpose
 The purpose of this project is to develop a PlanMyTrip app that will identify travel destinations and hotels based on user input of weather preferences. From the list of potential destinations, the tester can choose 4 cities to create a travel itenerary and using the Google Maps Directions API, a travel route is created between the four cities, as well as a marker layer map.
 
+## Technology Used
+
+![download](https://user-images.githubusercontent.com/98500639/185665121-0e830c15-e612-487d-92e5-a0c63696e19a.png)
+![download](https://user-images.githubusercontent.com/98500639/185665197-583520c3-840b-4187-a5ea-ede9e925c473.png)
+![download](https://user-images.githubusercontent.com/98500639/185665270-c06415c7-356d-4748-98be-e713c48a1a7b.png)
+![download](https://user-images.githubusercontent.com/98500639/185665469-27eabbcd-f5d2-4ea6-b9e6-ca1ea3e079a4.png)
+
 ## Tasks
 
 Three main tasks were needed to complete this project. 
